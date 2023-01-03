@@ -14,7 +14,7 @@
 </div>
 
  <div style="display: inline_block"><br>
-    <img align="right" alt="Carol-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/904b4667aa2bfcd834f9509b6b039472.gif">
+    <img align="right" alt="Carol-pic" height="350" style="border-radius:50px;" src="/profilepicture.png">
 </div>
 
   ##
