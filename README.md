@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=644336&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9f9586&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Carolina+Veloso;I'm+24+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9f9586&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Carolina+Veloso;I'm+24+years+old;I'm+from+Brazil;Be+Welcome!+:%7)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=carolinacveloso&show_icons=true&count_private=true&hide_border=true&title_color=644336&icon_color=644336&text_color=9f9586&bg_color=0d1117" alt="Carolina Veloso github stats" /> 
