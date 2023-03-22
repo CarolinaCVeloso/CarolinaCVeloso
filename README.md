@@ -28,6 +28,10 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolinacveloso}/count.svg" /></p> 
 <br>
+
+ ![Snake animation](https://github.com/carolinacveloso/carolinacveloso/blob/output/github-contribution-grid-snake.svg)
+ 
+
 </div>
 
 
