@@ -19,7 +19,7 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=524F81&height=10" style="width:500px">
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7B679A&text=My+Skills:&height=40&fontSize=30" style="width: 50%;">
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7B679A&text=My+Skills:&height=40&fontSize=40" style="width: 50%;">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  /><br>
 </div>
 
- <img src="https://capsule-render.vercel.app/api?type=cylinder&color=524F81&height=10" style="width:640px">
+ <img src="https://capsule-render.vercel.app/api?type=cylinder&color=524F81&height=10" style="width:500px">
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
