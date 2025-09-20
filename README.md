@@ -50,7 +50,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolinacveloso}/count.svg" /></p> 
 <br>
 
-![snake gif](https://github.com/CarolinaCVeloso/CarolinaCVeloso/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/CarolinaCVeloso/CarolinaCVeloso/blob/output/github-contribution-grid-snake.svg)-->
 
 </div>
 
