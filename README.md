@@ -1,6 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
+<div align="center"> 
+ <samp>
+      <br>
+      Hi there! I'm <b>Carolina Veloso</b>
+  </samp>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=645394&vCenter=true&width=500&lines=Hello!!++I'm++Carolina+Veloso;I'm+a+Back-end+Developer+from+Brazil;Be+Welcome!)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=645394&vCenter=true&width=500&lines=I'm+a+Back-end+Developer+from+Brazil;Be+Welcome!)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">  
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=carolinacveloso&show_icons=true&count_private=true&hide_border=true&title_color=7B679A&icon_color=663399&text_color=efefef&bg_color=0d1117" alt="Carolina Veloso github stats" /> 
@@ -45,13 +55,12 @@
 
  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=524F81&height=10" style="width:1000px">
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolinacveloso}/count.svg" /></p> 
 <br>
 
-<!--![snake gif](https://github.com/CarolinaCVeloso/CarolinaCVeloso/blob/output/github-contribution-grid-snake.svg)-->
-
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=7B679A&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
 
+<br>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=100&section=footer"/>
