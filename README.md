@@ -56,8 +56,8 @@
  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=efeae6&height=10" style="width:1000px">
 
 <div align="center">  
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=carolinacveloso&show_icons=true&count_private=true&hide_border=true&title_color=b09e8e&icon_color=b09e8e&text_color=b09e8e&bg_color=e8e5e2" alt="Carolina Veloso github stats" /> 
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinacveloso&layout=compact&hide_border=true&title_color=b09e8e&text_color=b09e8e&bg_color=e8e5e2" />
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=carolinacveloso&show_icons=true&count_private=true&hide_border=true&title_color=b09e8e&icon_color=b09e8e&text_color=b09e8e&bg_color=444444" alt="Carolina Veloso github stats" /> 
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinacveloso&layout=compact&hide_border=true&title_color=b09e8e&text_color=b09e8e&bg_color=444444" />
 </div>
 
 <br>
