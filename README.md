@@ -17,36 +17,35 @@
 <img align="right" height="300" alt="github img" src="https://github.com/user-attachments/assets/32b9965d-8681-40b5-9b35-1d9ff1a735bd"  />
 </div>
 <p align="left">🌍 Sou de João Pessoa, Brasil<br>🎓 Estudante de Ciência da Computação<br>⚡ Aspirante a Back-end com interesse em Software e IA<br>🎯 Foco em Java, Springboot e Python <br>✨ Criando projetos para aprimorar minhas habilidades</p>
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=efeae6&height=10" style="width:350px">
-<h3 align="left"> Linguagens e Ferramentas</h3>
-
-###
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="10" />
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="10" />
-</div>
 <br>
+
 <div align = "center">
   <a href="https://instagram.com/carolinacvls" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:carolinacaveloso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolinacveloso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
+ <br>  
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=efeae6&height=10" style="width:350px">
+
+<h2 align="center"> Linguagens e Ferramentas</h2>
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img width="12" />
+ <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="intellij logo"  />
+  <img width="12" />
+</div>
+
+<br>
    
  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=efeae6&height=10" style="width:1000px">
 
