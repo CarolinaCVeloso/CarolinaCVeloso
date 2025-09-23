@@ -65,5 +65,11 @@
 <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=b09e8e&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carolinacveloso/carolinacveloso/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carolinacveloso/carolinacveloso/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/carolinacveloso/carolinacveloso/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c9b8a8&height=100&section=footer"/>
