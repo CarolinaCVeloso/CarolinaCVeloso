@@ -18,7 +18,7 @@
 </div>
 <p align="left">🌍 Sou de João Pessoa, Brasil<br>🎓 Estudante de Ciência da Computação<br>⚡ Aspirante a Back-end com interesse em Software e IA<br>🎯 Foco em Java, Springboot e Python <br>✨ Criando projetos para aprimorar minhas habilidades</p>
 
-<img align="left" src="https://capsule-render.vercel.app/api?type=cylinder&color=efeae6&height=10" style="width:350px">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=efeae6&height=10" style="width:350px">
 <h3 align="left"> Linguagens e Ferramentas</h3>
 
 ###
