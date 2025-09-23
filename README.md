@@ -27,9 +27,9 @@
  <br>  
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=efeae6&height=10" style="width:350px">
 
-<h2 align="center"> Linguagens e Ferramentas</h2>
+<h3 align="center"> Linguagens e Ferramentas</h2>
 
-<div>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
