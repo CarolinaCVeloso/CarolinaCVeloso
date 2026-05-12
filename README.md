@@ -50,16 +50,8 @@
  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=efeae6&height=10" style="width:1000px">
 
 
-<div align="center">  
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=carolinacveloso&show_icons=true&count_private=true&hide_border=true&title_color=b09e8e&icon_color=b09e8e&text_color=b09e8e&bg_color=444444" alt="Carolina Veloso github stats" /> 
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinacveloso&layout=compact&hide_border=true&title_color=b09e8e&text_color=b09e8e&bg_color=444444" />
-</div>
-
 <br>
 
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=b09e8e&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carolinacveloso/carolinacveloso/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carolinacveloso/carolinacveloso/output/pacman-contribution-graph.svg">
