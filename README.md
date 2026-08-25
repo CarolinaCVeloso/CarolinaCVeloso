@@ -20,7 +20,7 @@
 
 <samp>Java · Spring Boot · REST APIs · Python</samp>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/carolinacveloso/">
   <img src="https://img.shields.io/badge/LinkedIn-8A6F5A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
